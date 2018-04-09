@@ -24,7 +24,7 @@
     <header> 
       <!-- Logo -->
       <div class="container">
-        <div class="logo"> <img  class="img-responsive" src="images/logo.png" alt="" > </div>
+        <div class="logo"> <img  class="img-responsive" src="images/logo.png" alt="logo" > </div>
         <!-- INFO -->
         <div class="top-info-con">
           <ul>
@@ -90,13 +90,13 @@
       <!-- SUB BANNER -->
     <section class="sub-bnr">
       <div class="position-center-center">
-        <div class="container"> <img src="images/sub-bnr-hr-up-contact.png" alt="" >
+        <div class="container"> <img src="images/sub-bnr-hr-up-contact.png" alt="tiret" >
           <h4>MENU</h4>
           <ol class="breadcrumb">
             <li><a href="#">Acceuil</a></li>
             <li class="active">Ajouter un elève</li>
           </ol>
-          <img src="images/sub-bnr-hr.png" alt="" > </div>
+          <img src="images/sub-bnr-hr.png" alt="tiret" > </div>
       </div>
     </section>
   
