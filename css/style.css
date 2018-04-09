@@ -186,7 +186,7 @@ body {
 	font-weight: normal;
 	position: relative;
 	font-size: 14px;
-	font-family: 'Ubuntu';
+	font-family: 'Ubuntu',sans-serif;
 }
 /*=======================================================
       WRAPPER
@@ -258,14 +258,12 @@ a {
 	text-decoration: none;
 	color: #141414;
 }
-.font-raleway {
-	font-family: 'Raleway', sans-serif;
-}
+
 .font-martel {
 	font-family: 'Martel Sans', sans-serif;
 }
 .font-ubuntu {
-	font-family: 'Ubuntu';
+	font-family: 'Ubuntu',sans-serif;
 }
 p.intro-small {
 	font-style: italic;
@@ -681,7 +679,7 @@ header .navbar li.active a:before {
 }
 .top-info-con h6 {
 	font-weight: normal;
-	font-family: 'Ubuntu';
+	font-family: 'Ubuntu',sans-serif;
 	color: #999999;
 	margin-top: 5px;
 	font-size: 14px;
@@ -731,7 +729,7 @@ header .navbar li.active a:before {
 	line-height: 30px;
 	font-size: 16px;
 	font-weight: normal;
-	font-family: 'Ubuntu';
+	font-family: 'Ubuntu',sans-serif;
 	font-size: 13px;
 	margin: 10px 0;
 }
@@ -741,7 +739,7 @@ header .navbar li.active a:before {
 	color: #fff;
 	font-size: 16px;
 	font-weight: normal;
-	font-family: 'Ubuntu';
+	font-family: 'Ubuntu',sans-serif;
 	font-size: 13px;
 }
 .sub-bnr .breadcrumb>li+li:before {
@@ -1004,7 +1002,7 @@ footer button {
 }
 .foot-info-con h6 {
 	font-weight: normal;
-	font-family: 'Ubuntu';
+	font-family: 'Ubuntu',sans-serif;
 	color: #fff;
 	font-weight: bold;
 	margin-top: 20px;
