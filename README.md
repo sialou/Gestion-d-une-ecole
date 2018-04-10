@@ -1,4 +1,4 @@
-## Bienvenue sur la page de mon projet d'edacy
+## Bienvenue sur la page de Gestion d’une école
 
 Les étapes à suivre pour visualiser mon projet:
 
