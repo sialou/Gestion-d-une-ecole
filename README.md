@@ -1,6 +1,6 @@
-## Bienvenue sur la page de Gestion d’une école
+## Bienvenue sur la page de mon projet de Gestion d’une école
 
-Les étapes à suivre pour visualiser mon projet:
+Les étapes à suivre pour visualiser mon projet sont:
 
 1/Telecharger les fichiers.
 2/Selectionner le fichier projet_edacy.sql et l'importer dans son phpMyAdmin.
