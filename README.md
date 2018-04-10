@@ -8,5 +8,5 @@ Les étapes à suivre pour visualiser mon projet:
   $servername = "localhost";
   $username = "le nom";
   $password = "le mot de pass";
-  $dbname = "projet_edacy";
+  $dbname = "le nom de la base de donées";
 
